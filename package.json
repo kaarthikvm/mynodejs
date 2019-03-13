@@ -1,0 +1,16 @@
+{
+  "name": "quoteserver",
+  "version": "0.0.1",
+  "description": "Quote server - quantitative trading (BETA)",
+  "main": "run_job.js",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "bunyan-logger": "^0.1.1",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {},
+  "engines": {},
+  "browserslist": []
+}
+
